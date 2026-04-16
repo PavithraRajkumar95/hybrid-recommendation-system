@@ -2,5 +2,9 @@ venv/
 __pycache__/
 *.pyc
 .env
-artifacts/
 .DS_Store
+echo venv/ >> .gitignore
+echo __pycache__/ >> .gitignore
+echo *.pkl >> .gitignore
+echo *.h5 >> .gitignore
+echo *.zip >> .gitignore
