@@ -20,11 +20,11 @@ Deployed using **Docker + AWS EC2** with an interactive **Streamlit frontend** a
 
 ### 🎨 Frontend (Streamlit UI)
 
-![Frontend](assets/Ec2streamlitappcloudrun.png)
+![Frontend](assets/EC2streamlitappcloudrun.png)
 
 ### ⚙️ Backend API (FastAPI)
 
-![Backend](assets/.png)
+![Backend](assets/fastapiopening.png)
 
 ### 🎯 Recommendation Output
 
