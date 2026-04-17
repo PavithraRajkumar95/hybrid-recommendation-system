@@ -5,14 +5,7 @@
 A production-ready **Hybrid Recommendation System** that combines **Content-Based Filtering** and **Collaborative Filtering** to deliver personalized movie recommendations.
 Deployed using **Docker + AWS EC2** with an interactive **Streamlit frontend** and **FastAPI backend**.
 
----
 
-## 🎥 Demo Video
-
-
-> https://github.com/hybrid-recommendation-system/assets/hybridrecmmendationvedio.mp4
-
----
 
 ## 📸 Application Preview
 
