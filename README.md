@@ -12,7 +12,7 @@ Deployed using **Docker + AWS EC2** with an interactive **Streamlit frontend** a
 
 🎥 Demo Video
 
-[https://github.com/user-attachments/assets/](https://drive.google.com/file/d/1JhEcX6VFt1qLpuk3lD4SR5pykt14_x8u/view?usp=drive_link)
+(https://drive.google.com/file/d/1JhEcX6VFt1qLpuk3lD4SR5pykt14_x8u/view?usp=drive_link)
 
 ---
 
