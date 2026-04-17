@@ -1,6 +1,9 @@
 # 🎬 Hybrid Movie Recommendation System
 
+🚀 Improved Precision@10 from 9% → 41% using hybrid recommendation strategy
+
 🔗 **Live App:** http://18.212.98.145:8501
+
 
 A production-ready **Hybrid Recommendation System** that combines **Content-Based Filtering** and **Collaborative Filtering** to deliver personalized movie recommendations.
 Deployed using **Docker + AWS EC2** with an interactive **Streamlit frontend** and **FastAPI backend**.
