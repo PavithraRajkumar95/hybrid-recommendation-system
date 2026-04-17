@@ -16,7 +16,7 @@ Deployed using **Docker + AWS EC2** with an interactive **Streamlit frontend** a
 
 ## 📸 Application Preview
 
-> Add your screenshots below 👇
+(https://raw.githubusercontent.com/PavithraRajkumar95/hybrid-recommendation-system/refs/heads/main/assets/EC2streamlitappcloudrun.png)
 
 ### 🎨 Frontend (Streamlit UI)
 
@@ -24,7 +24,7 @@ Deployed using **Docker + AWS EC2** with an interactive **Streamlit frontend** a
 
 ### ⚙️ Backend API (FastAPI)
 
-![Backend](assets/backend.png)
+
 
 ### 🎯 Recommendation Output
 
