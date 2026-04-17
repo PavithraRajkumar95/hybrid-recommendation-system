@@ -219,7 +219,7 @@ Stored in `backend/artifacts/`:
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: <your-linkedin>
+* 💼 LinkedIn: https://www.linkedin.com/in/pavithra-rajkumar1995
 * 💻 GitHub: https://github.com/PavithraRajkumar95
 
 ---
