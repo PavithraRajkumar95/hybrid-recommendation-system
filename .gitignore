@@ -1,10 +1,18 @@
+# Data
+backend/data/
+*.csv
+
+# Models
+backend/artifacts/
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
 venv/
 __pycache__/
-*.pyc
-.env
-.DS_Store
-echo venv/ >> .gitignore
-echo __pycache__/ >> .gitignore
-echo *.pkl >> .gitignore
-echo *.h5 >> .gitignore
-echo *.zip >> .gitignore
+
+# Misc
+*.zip
+*.tar
