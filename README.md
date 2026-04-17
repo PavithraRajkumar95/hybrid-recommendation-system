@@ -10,7 +10,7 @@ Deployed using **Docker + AWS EC2** with an interactive **Streamlit frontend** a
 ## 🎥 Demo Video
 
 > Add your demo video link below 👇
-> https://github.com/user-attachments/assets/streamlit-streamlit_app-2026-04-16-22-31-41.webm
+> https://github.com/hybrid-recommendation-system/assets/streamlit-streamlit_app-2026-04-16-22-31-41.webm
 
 ---
 
